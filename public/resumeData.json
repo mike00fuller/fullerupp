@@ -1,0 +1,149 @@
+{
+  "main": {
+    "name": "Michael Fuller",
+    "occupation": "Programmer",
+    "description": "Developing decentralized applications that are mechanically tied to a ledger based blockchain via Truffle (Ganache)",
+    "image": "profilepic.jpg",
+    "bio": "a terminal camper.",
+    "contactmessage": "If P(Contact) > 0 Please fill form.",
+    "email": "michael09fuller@gmail.com",
+    "phone": "9084947210",
+    "address": {
+      "street": "214 Sunshine Ct",
+      "city": "Parlin",
+      "state": "New Jersey",
+      "zip": "08859"
+    },
+    "website": "http://www.michaelfuller.com",
+    "resumedownload": "resumenpm.png",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/michealfuller52",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/fuller6michael",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/michael-fuller-a07a53142/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/mikefulla_6",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/mike00fuller",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I will later insert a number of skills or projects Ive covered so far.",
+    "education": [
+      {
+        "school": "Willaim Paterson University of New Jersey",
+        "degree": "Computer Science, Mathematics",
+        "graduated": "May 2022",
+        "description": "Low level assembly language, Digital Logic, Statistical Methods, Differential Methods etc."
+      },
+      {
+        "school": "Old Bridge High School",
+        "degree": "Comp Sci AP",
+        "graduated": "June 2018",
+        "description": "Coverage of various aspects from Java to AutoCAD."
+      }
+    ],
+    "work": [
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      },
+      {
+        "company": "",
+        "title": "",
+        "years": "" ,
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "74%"
+      },
+      {
+        "name": "HardHat",
+        "level": "75%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "70%"
+      },
+      {
+        "name": "Solidity",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Adventures",
+        "category": "Blog for my upcoming post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "http://www.michaelfuller.com"
+      },
+      {
+        "title": "coming up...",
+        "category": "....",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.michaelfuller.com"
+      },
+
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website",
+        "image": "resume-website.jpg",
+        "url": "http://www.michaelfuller.com"
+      },
+      {
+        "title": "Ethereum",
+        "category": "Adventures in the Dark Forest",
+        "image": "smirkspace.png",
+        "url": "http://www.michaelfuller.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Ronaldo-esque clutch ",
+        "user": "Manager"
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
