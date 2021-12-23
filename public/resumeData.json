@@ -4,15 +4,15 @@
     "occupation": "Programmer",
     "description": "Developing decentralized applications that are mechanically tied to a ledger based blockchain via Truffle (Ganache)",
     "image": "profilepic.jpg",
-    "bio": "a terminal camper.",
-    "contactmessage": "If P(Contact) > 0 Please fill form.",
+    "bio": "Web3 developer gannering react.js experience with js and python script implementations.",
+    "contactmessage": "Contact via email",
     "email": "michael09fuller@gmail.com",
     "phone": "9084947210",
     "address": {
-      "street": "214 Sunshine Ct",
-      "city": "Parlin",
+      "street": "2** Sunshine Ct",
+      "city": "Old Bridge",
       "state": "New Jersey",
-      "zip": "08859"
+      "zip": "088**"
     },
     "website": "http://www.michaelfuller.com",
     "resumedownload": "resumenpm.png",
@@ -45,51 +45,51 @@
     ]
   },
   "resume": {
-    "skillmessage": "I will later insert a number of skills or projects Ive covered so far.",
+    "skillmessage": "Many projects covered in the Web3 space. More to follow. Reach out on LinkedIn for details.",
     "education": [
       {
-        "school": "Willaim Paterson University of New Jersey",
-        "degree": "Computer Science, Mathematics",
-        "graduated": "May 2022",
-        "description": "Low level assembly language, Digital Logic, Statistical Methods, Differential Methods etc."
+        "school": "William Paterson University of New Jersey",
+        "degree": "Bachelors in Computer Science and Mathematics",
+        "graduating": "May 2022",
+        "description": "Linear Algebra, Assembly Lang, Statistics, Differential Equations, InfoSec, Physics..."
       },
       {
         "school": "Old Bridge High School",
-        "degree": "Comp Sci AP",
-        "graduated": "June 2018",
-        "description": "Coverage of various aspects from Java to AutoCAD."
+        "degree": "Advanced Placement",
+        "graduated": "May 2018",
+        "description": "Covering various aspects such as Java, AutoCAD, etc"
       }
     ],
     "work": [
       {
-        "company": "",
+        "company": "Github projects",
         "title": "",
         "years": "",
-        "description": ""
+        "description": "Gitcoin"
       },
       {
-        "company": "",
+        "company": "Field Nation",
         "title": "",
         "years": "" ,
-        "description": ""
+        "description": "Field Agent"
       }
     ],
     "skills": [
       {
         "name": "Git",
-        "level": "74%"
+        "level": "84%"
       },
       {
         "name": "HardHat",
-        "level": "75%"
+        "level": "83%"
       },
       {
-        "name": "ReactJs",
+        "name": "React",
         "level": "80%"
       },
       {
-        "name": "CSS",
-        "level": "90%"
+        "name": "Python",
+        "level": "85%"
       },
       {
         "name": "HTML5",
@@ -97,48 +97,48 @@
       },
       {
         "name": "TypeScript",
-        "level": "70%"
+        "level": "75%"
       },
       {
         "name": "Solidity",
-        "level": "80%"
+        "level": "90%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Adventures",
-        "category": "Blog for my upcoming post-university travels",
+        "title": "NFTs",
+        "category": "https://github.com/mike00fuller/SVGNFTs/",
         "image": "canadian-wanderlust.jpg",
-        "url": "http://www.michaelfuller.com"
+        "url": "https://testnets.opensea.io/assets/0x56019b8feb41712b3827a6ec4be2dbff9478e95b/0/"
       },
       {
-        "title": "coming up...",
+        "title": "Endeavors",
         "category": "....",
         "image": "fury-fighting-gear.jpg",
-        "url": "http://www.michaelfuller.com"
+        "url": "https://main.dij5yjia87j8e.amplifyapp.com/#about"
       },
 
       {
         "title": "Resume Website",
         "category": "A React based resume website",
         "image": "resume-website.jpg",
-        "url": "http://www.michaelfuller.com"
+        "url": "https://main.dij5yjia87j8e.amplifyapp.com/#about"
       },
       {
         "title": "Ethereum",
         "category": "Adventures in the Dark Forest",
         "image": "smirkspace.png",
-        "url": "http://www.michaelfuller.com"
+        "url": "https://main.dij5yjia87j8e.amplifyapp.com/#about"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Ronaldo-esque clutch ",
-        "user": "Manager"
+        "text": "The world needs fixin...",
+        "user": ""
       },
       {
         "text": "",
